@@ -1,0 +1,6 @@
+@CarterWebApi_HostAddress = http://localhost:5049
+
+GET {{CarterWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
